@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ClaspoND';
+    src: url('/public/font/Claspo-ND-Ultra.woff2') format('woff2'),
+         url('/public/font/Claspo-ND-Ultra.woff') format('woff'),
+         url('/public/font/Claspo-ND-Ultra.ttf') format('truetype');
+}
+
+body,
+.claspo-nd-font {
+    font-family: 'ClaspoND', sans-serif;
+}

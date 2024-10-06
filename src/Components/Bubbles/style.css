@@ -1,0 +1,28 @@
+.circle {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: 1px solid #000;
+    /* box-shadow: inset -1px 1px 1px #ededed; */
+    /* animation: moveCircle 10s linear infinite; */
+}
+
+.pause {
+    animation-play-state: paused;
+}
+/* 
+@keyframes moveCircle {
+    0% {
+        transform: translate(var(--start-x), var(--start-y));
+        opacity: 0;
+    }
+    10% {
+        opacity: 1;
+    }
+    100% {
+        transform: translate(var(--end-x), var(--end-y));
+        opacity: 0;
+    }
+} */

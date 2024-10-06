@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Claspo ND';
+    src: url('Claspo-ND-Medium.eot');
+    src: local('Claspo ND Medium'), local('Claspo-ND-Medium'),
+        url('Claspo-ND-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Claspo-ND-Medium.woff2') format('woff2'),
+        url('Claspo-ND-Medium.woff') format('woff'),
+        url('Claspo-ND-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Claspo ND Ultra';
+    src: url('Claspo-ND-Ultra.eot');
+    src: local('Claspo ND Ultra'), local('Claspo-ND-Ultra'),
+        url('Claspo-ND-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('Claspo-ND-Ultra.woff2') format('woff2'),
+        url('Claspo-ND-Ultra.woff') format('woff'),
+        url('Claspo-ND-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Claspo ND';
+    src: url('Claspo-ND-Bold.eot');
+    src: local('Claspo ND Bold'), local('Claspo-ND-Bold'),
+        url('Claspo-ND-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Claspo-ND-Bold.woff2') format('woff2'),
+        url('Claspo-ND-Bold.woff') format('woff'),
+        url('Claspo-ND-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Claspo ND';
+    src: url('Claspo-ND-Black.eot');
+    src: local('Claspo ND Black'), local('Claspo-ND-Black'),
+        url('Claspo-ND-Black.eot?#iefix') format('embedded-opentype'),
+        url('Claspo-ND-Black.woff2') format('woff2'),
+        url('Claspo-ND-Black.woff') format('woff'),
+        url('Claspo-ND-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Claspo ND';
+    src: url('Claspo-ND-Regular.eot');
+    src: local('Claspo ND'), local('Claspo-ND-Regular'),
+        url('Claspo-ND-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Claspo-ND-Regular.woff2') format('woff2'),
+        url('Claspo-ND-Regular.woff') format('woff'),
+        url('Claspo-ND-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Claspo ND Variable';
+    src: url('Claspo-ND-Variable.eot');
+    src: local('Claspo ND Variable'), local('Claspo-ND-Variable'),
+        url('Claspo-ND-Variable.eot?#iefix') format('embedded-opentype'),
+        url('Claspo-ND-Variable.woff2') format('woff2'),
+        url('Claspo-ND-Variable.woff') format('woff'),
+        url('Claspo-ND-Variable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Claspo ND';
+    src: url('Claspo-ND-Semibold.eot');
+    src: local('Claspo ND Semibold'), local('Claspo-ND-Semibold'),
+        url('Claspo-ND-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Claspo-ND-Semibold.woff2') format('woff2'),
+        url('Claspo-ND-Semibold.woff') format('woff'),
+        url('Claspo-ND-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
